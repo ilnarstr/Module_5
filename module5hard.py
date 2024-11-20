@@ -97,21 +97,3 @@ if __name__ == '__main__':
     print(ur.current_user)
 
     ur.watch_video('Лучший язык программирования 2024 года!')
-
-
-
-
-
-
-
-    # print(ur.current_user)
-    # print(ur.users)
-    # ur.log_out()
-    # print(ur.current_user)
-    # ur.log_in('urban_pythonist', 'iScX4vIJClb9YQavjAgF')
-    # print(ur.current_user)
-
-
-
-
-
